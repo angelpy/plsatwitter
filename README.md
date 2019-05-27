@@ -109,6 +109,13 @@ It is also possible to perform a query-based retrieval, as:
   ________________________________________
 ```
 
+Remarks and clarifications
+----------
+This project is almost complete. There are some modules which are included in the package but not explained in this file because they are only of academic interest. However, if one is interested in the results of comparing several algorithms for nonnegative matrix factorization, including initialization, the subpackage ```plsatwitter.tests``` may be of interest. 
+
+Module and class docstrings are expected to be added in the future, as well as a GUI instead of the current CLI working mode.
+
+
 References
 ----------
 1. Hofmann, Thomas (1999). “Probabilistic latent semantic indexing”. En: Proceedings of the 22nd annual international ACM SIGIR conference on Research and
