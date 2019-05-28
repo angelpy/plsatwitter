@@ -10,6 +10,7 @@ setup(name='plsatwitter',
       packages=find_packages(),
       install_requires=[
           'nimfa',
+          'nonnegfac',  
           'numpy',
           'sklearn'
       ],
