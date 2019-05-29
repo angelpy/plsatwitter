@@ -28,6 +28,7 @@ Use **setup.py** to install this package:
 ```python
     python setup.py install
 ```
+Please note that the package ```nonnegfac``` must be installed using **setup.py** as specified in [its Github page](https://github.com/kimjingu/nonnegfac-python)
 
 Configuration
 ------------
