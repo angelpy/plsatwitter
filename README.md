@@ -127,4 +127,4 @@ development in information retrieval - SIGIR ’99. ACM Press. doi: 10.1145/
 
 Feedback
 --------
-Please send bug reports, comments or questions to [Ángel Pérez](alperezmi@hotmail.com). Spelling and grammar corrections are also welcomed.
+Please send bug reports, comments or questions to [Ángel Pérez](mailto:alperezmi@hotmail.com). Spelling and grammar corrections are also welcomed.
