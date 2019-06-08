@@ -11,6 +11,7 @@ setup(name='plsatwitter',
       install_requires=[
           'nimfa',
           'numpy',
-          'sklearn'
+          'sklearn',
+          'python-twitter'
       ],
       zip_safe=False)
